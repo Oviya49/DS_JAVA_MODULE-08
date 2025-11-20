@@ -61,5 +61,6 @@ public class FirstUniqueNumberStream {
 
 ## Output:
 <img width="686" height="507" alt="image" src="https://github.com/user-attachments/assets/c8c28d2e-327d-4303-b3c5-80c1eeec6735" />
+
 ## Result:
 The program successfully tracks and returns the first unique number at any point in the integer stream using a LinkedHashMap.

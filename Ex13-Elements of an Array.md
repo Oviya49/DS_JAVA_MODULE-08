@@ -42,5 +42,6 @@ public class FillArrayUsingArraysFill {
 ```
 ## Output:
 <img width="706" height="176" alt="image" src="https://github.com/user-attachments/assets/3b0bedfe-2c88-4b2f-840e-e2733f1f817d" />
+
 ## Result:
 The program successfully fills the first 10 elements of the array with the constant value 5 using the Arrays.fill() method.

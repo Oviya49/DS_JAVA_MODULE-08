@@ -52,5 +52,6 @@ public class TreeMapValueExistenceCheck {
 
 ## Output:
 <img width="972" height="668" alt="image" src="https://github.com/user-attachments/assets/4f28964f-e8ad-4737-ac84-18a702035340" />
+
 ## Result:
 Thus, the program successfully checks whether a specified value exists in a TreeMap using the containsValue() method.

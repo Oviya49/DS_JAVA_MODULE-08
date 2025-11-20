@@ -51,5 +51,6 @@ public class ArrayToTreeSet {
 ```
 ## Output:
 <img width="624" height="436" alt="image" src="https://github.com/user-attachments/assets/869f72c0-2cfe-4e38-a11e-669968f0a796" />
+
 ## Result:
 The program successfully adds elements from an array into a TreeSet.
